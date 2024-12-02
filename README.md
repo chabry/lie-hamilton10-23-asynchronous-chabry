@@ -120,3 +120,6 @@ How the game works:
 
 hint: your good friend readline is back
 
+## Done? 
+
+Go to the next chapter: [promises.md](promises.md)
